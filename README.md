@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [Your Name]
+Hi there! 👋 I'm Davit Dallakyan
 Welcome to my GitHub profile. I'm a passionate Android and Golang developer with a knack for creating high-quality, efficient, and scalable applications. Whether it’s developing a sleek Android app or designing a robust backend system in Golang, I thrive on solving complex problems and building innovative solutions.
 
 🚀 About Me
