@@ -22,7 +22,7 @@ Tech Stack: Android, Kotlin, Jetpack Compose.<br>
 go-fiber-ent<br>
 Description: Brief overview of a backend service or microservice developed using Golang.<br>
 Key Features: Scalability, performance optimizations, etc.<br>
-Tech Stack: Golang, Fiber, MySQL, Docker, RabbitMQ.<br>
+Tech Stack: Golang, Fiber, entGo, MySQL, Docker, RabbitMQ.<br>
 <br>
 📂 Notable Repositories<br>
 AndroidApp: A comprehensive Android application featuring [features] built with Kotlin and Jetpack Compose.<br>
