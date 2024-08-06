@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate Android and Golang developer with
 🔧 Skills: Android Development, Golang, RESTful APIs, Microservices, Unit Testing, Continuous Integration/Deployment (CI/CD)<br>
 🌟 Passion: Crafting seamless user experiences on Android and building high-performance backend systems with Golang<br>
 🌍 Location: Armenia Yerevan<br>
-📚 Currently Learning: [Any new technology or tool you're currently learning]<br>
+📚 Currently Learning: Golang development<br>
 🔨 Technologies & Tools<br>
 Languages: Kotlin, Java, Golang<br>
 Frameworks: Android SDK, Jetpack Compose, Spring Boot (for Golang services)<br>
